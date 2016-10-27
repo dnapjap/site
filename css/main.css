@@ -64,9 +64,9 @@ button:hover {
     padding: 11px 20px;
 }
 .btn-common {
-    background: #e74c3c;
+    background: #ff0000;
     color: #fff;
-    border: 2px solid #e74c3c;
+    border: 2px solid #ff0000;
 }
 .btn-common:hover {
     background: rgba(231, 76, 60, 0.7);
@@ -517,12 +517,13 @@ li.search .open-search i {
 }
 #carousel-area .item .carousel-caption h2 {
     font-family: 'loveloblack';
-    font-size: 70px;
+    font-size: 100px;
     text-transform: uppercase;
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
     -webkit-animation-duration: 0.8s;
     animation-duration: 0.8s;
+    color:  #ff0000;
 }
 #carousel-area .item .carousel-caption h3 {
     font-family: 'Roboto', sans-serif;
