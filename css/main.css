@@ -523,7 +523,7 @@ li.search .open-search i {
     animation-name: fadeInDown;
     -webkit-animation-duration: 0.8s;
     animation-duration: 0.8s;
-    color:  #ff0000;
+    color: #ff0000;
 }
 #carousel-area .item .carousel-caption h3 {
     font-family: 'Roboto', sans-serif;
@@ -3385,4 +3385,7 @@ ul li {
     color: #31708f;
     border-color: #bce8f1;
     background-color: #d9edf7;
+}
+.font-icon {
+    display: block;
 }
